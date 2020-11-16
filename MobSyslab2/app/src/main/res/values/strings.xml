@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Калькулятор калорий</string>
+    <string name="OK">OK</string>
+    <string name="Callories_count">В день вам нужно</string>
+</resources>

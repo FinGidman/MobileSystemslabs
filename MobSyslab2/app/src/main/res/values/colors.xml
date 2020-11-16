@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2980B9</color>
+    <color name="colorPrimaryDark">#1F618D</color>
+    <color name="colorAccent">#1F618D</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="Gray">#8A8A8A</color>
+
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="LightGreen">#76D7C4</color>
+
+    <color name="SteelBlue">#4682B4</color>
+    <color name="LightBlue">#85C1E9</color>
+
+    <color name="Tomato">#FF6347</color>
+    <color name="LightTomato">#F1948A</color>
+</resources>
