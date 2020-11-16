@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917624616554",
+    "firebase_url": "https://lab6fb.firebaseio.com",
+    "project_id": "lab6fb",
+    "storage_bucket": "lab6fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917624616554:android:4023ae0d19935e2b16fc13",
+        "android_client_info": {
+          "package_name": "kevlich.fit.bstu.lab6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917624616554-fs4ohs3cqj2do1i4p9ronut7453d8fn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kevlich.fit.bstu.lab6",
+            "certificate_hash": "b0c09ffcd6132fad1001a77f56c502d4b0acdcf0"
+          }
+        },
+        {
+          "client_id": "917624616554-jr3mlb1jrme1mm7g4jvgmt0pg2jqu669.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyApIrYZlqSJTb5XVUIB4a3tdZbhRU5HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917624616554-jr3mlb1jrme1mm7g4jvgmt0pg2jqu669.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
